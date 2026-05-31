@@ -1,7 +1,7 @@
 # Prerequisites
 ######
-# New feature added
-- JDK 21
+# Minor version updated
+- JDK 22
 - Maven 4.1
 - MySQL 99.1
 
