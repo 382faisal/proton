@@ -1,8 +1,9 @@
 # Prerequisites
 ######
+# Major Release
 - JDK 21
-- Maven 3.9 
-- MySQL 8
+- Maven 4.0
+- MySQL 99
 
 # Technologies 
 - JAKARTA
